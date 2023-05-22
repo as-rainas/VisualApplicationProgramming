@@ -17,7 +17,8 @@ namespace Activity1
         private int number2;
         private int result;
 
-        private int inValidation;
+        private int intValidation;
+        private ErrorProvider errorProvider = new ErrorProvider();
 
         public Form2()
         {
@@ -31,12 +32,11 @@ namespace Activity1
 
         private void txtNumber1_Validating(object sender, CancelEventArgs e)
         {
-            ErrorProvider errorProvider = new ErrorProvider();
+
             errorProvider.SetError(txtNumber1, "");
 
-            int i;
 
-            if (!int.TryParse(txtNumber1.Text, out i))
+            if (!int.TryParse(txtNumber1.Text, out intValidation))
             {
                 errorProvider.SetError(txtNumber1, "Please fill the required fields, only numbers are accepted here");
             }
@@ -44,12 +44,10 @@ namespace Activity1
 
         private void txtNumber2_Validating(object sender, CancelEventArgs e)
         {
-            ErrorProvider errorProvider = new ErrorProvider();
+
             errorProvider.SetError(txtNumber2, "");
 
-            int i;
-
-            if (!int.TryParse(txtNumber2.Text, out i))
+            if (!int.TryParse(txtNumber2.Text, out intValidation))
             {
                 errorProvider.SetError(txtNumber2, "Please fill the required fields, only numbers are accepted here");
             }
@@ -59,7 +57,8 @@ namespace Activity1
         {
             try
             {
-                if (ValidateChildren(ValidationConstraints.Enabled)) { 
+                if (ValidateChildren(ValidationConstraints.Enabled))
+                {
                     number1 = int.Parse(txtNumber1.Text);
                     number2 = int.Parse(txtNumber2.Text);
 
@@ -68,7 +67,7 @@ namespace Activity1
                     txtResult.Text = result.ToString();
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }

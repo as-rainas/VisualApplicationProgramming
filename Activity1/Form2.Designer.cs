@@ -113,6 +113,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form2";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Aggregate Function - Sum";
             ResumeLayout(false);
             PerformLayout();
