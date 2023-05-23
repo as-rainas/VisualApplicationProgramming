@@ -1,0 +1,17 @@
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.AssemblyReference.cache
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.Aggregate_Functions_Average.resources
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.GenerateResource.cache
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.AssemblyInfoInputs.cache
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.AssemblyInfo.cs
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.CoreCompileInputs.cache
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\bin\Debug\net6.0-windows\Activity2.exe
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\bin\Debug\net6.0-windows\Activity2.deps.json
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\bin\Debug\net6.0-windows\Activity2.runtimeconfig.json
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\bin\Debug\net6.0-windows\Activity2.dll
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\bin\Debug\net6.0-windows\Activity2.pdb
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.dll
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\refint\Activity2.dll
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.pdb
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\Activity2.genruntimeconfig.cache
+F:\rainas\speculative\uom-course-works\semestor 1\VisualApplicationProgramming\VisualApplicationProgramming\Activity2\obj\Debug\net6.0-windows\ref\Activity2.dll
